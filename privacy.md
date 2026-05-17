@@ -1,14 +1,14 @@
-# JobHelper Privacy Policy
+# JobsHelper Privacy Policy
 
 Effective date: May 3, 2026
 
-JobHelper helps users track job applications, compare compensation, and practice interview Q&A. This Privacy Policy explains what information we collect, how we use it, how we share it, and the choices you have.
+JobsHelper helps users track job applications, compare compensation, and practice interview Q&A. This Privacy Policy explains what information we collect, how we use it, how we share it, and the choices you have.
 
 ## Important Notes About User-Entered Information
 
-Most information in JobHelper is entered voluntarily by you. Job titles, company names, locations, compensation amounts, contacts, notes, job URLs, pasted job descriptions, and interview answers may be incomplete, inaccurate, outdated, fictional, or otherwise not verified by JobHelper.
+Most information in JobsHelper is entered voluntarily by you. Job titles, company names, locations, compensation amounts, contacts, notes, job URLs, pasted job descriptions, and interview answers may be incomplete, inaccurate, outdated, fictional, or otherwise not verified by JobsHelper.
 
-JobHelper uses user-entered information to operate the app and generate job-search-related features, including application records, compensation estimates, interview Q&A, key points, transcripts, feedback, and funnel views. JobHelper does not verify user-entered information, does not make hiring decisions, and does not provide background checks, employment screening, credit decisions, insurance decisions, or other eligibility determinations.
+JobsHelper uses user-entered information to operate the app and generate job-search-related features, including application records, compensation estimates, interview Q&A, key points, transcripts, feedback, and funnel views. JobsHelper does not verify user-entered information, does not make hiring decisions, and does not provide background checks, employment screening, credit decisions, insurance decisions, or other eligibility determinations.
 
 ## Information We Collect
 
@@ -22,11 +22,11 @@ You may choose to enter job application details such as company name, job title,
 
 ### Location Information
 
-JobHelper is designed to use city/state-level, city/region-level, or remote-work information for compensation, tax-estimation, and job-search context. We do not require street addresses and do not intend to collect precise GPS location, home address, or continuous location tracking. If you type a location manually, the information may be inaccurate or fictional. If you choose a location suggestion, OpenStreetMap-based services may process the city query according to their own terms and privacy policies.
+JobsHelper is designed to use city/state-level, city/region-level, or remote-work information for compensation, tax-estimation, and job-search context. We do not require street addresses and do not intend to collect precise GPS location, home address, or continuous location tracking. If you type a location manually, the information may be inaccurate or fictional. If you choose a location suggestion, OpenStreetMap-based services may process the city query according to their own terms and privacy policies.
 
 ### Interview Practice and Voice Content
 
-If you use Q&A practice or voice feedback, we may process interview questions, key points, recorded answers, transcripts, scores, and feedback. Voice recordings are used to generate transcript-based feedback. Unless the app clearly states otherwise, JobHelper does not intend to store raw voice recordings as permanent account content after processing.
+If you use Q&A practice or voice feedback, we may process interview questions, key points, recorded answers, transcripts, scores, and feedback. Voice recordings are used to generate transcript-based feedback. Unless the app clearly states otherwise, JobsHelper does not intend to store raw voice recordings as permanent account content after processing.
 
 ### Purchase Information
 
@@ -53,9 +53,9 @@ We use information to:
 
 ## How We Share Information
 
-We may share information with service providers that help us operate JobHelper. These providers are authorized to process information only as needed to provide services to us, subject to their own terms and privacy obligations.
+We may share information with service providers that help us operate JobsHelper. These providers are authorized to process information only as needed to provide services to us, subject to their own terms and privacy obligations.
 
-JobHelper may use the following service providers:
+JobsHelper may use the following service providers:
 
 - Supabase for authentication, account data, and database services
 - RevenueCat for subscription entitlement management
@@ -92,13 +92,13 @@ You may:
 
 ## State Privacy Rights
 
-Depending on where you live, you may have rights to access, correct, delete, or receive information about personal information we process. You may also have the right to opt out of certain sharing or targeted advertising. JobHelper does not sell personal information or share user-entered job search content for cross-context behavioral advertising.
+Depending on where you live, you may have rights to access, correct, delete, or receive information about personal information we process. You may also have the right to opt out of certain sharing or targeted advertising. JobsHelper does not sell personal information or share user-entered job search content for cross-context behavioral advertising.
 
 To exercise privacy rights, contact us using the email below.
 
 ## Children
 
-JobHelper is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided personal information, contact us so we can take appropriate action.
+JobsHelper is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided personal information, contact us so we can take appropriate action.
 
 ## Security
 
@@ -106,7 +106,7 @@ We use reasonable technical and organizational safeguards designed to protect in
 
 ## International Use
 
-JobHelper is operated from the United States. If you use JobHelper outside the United States, you understand that information may be processed in the United States or other locations where our service providers operate.
+JobsHelper is operated from the United States. If you use JobsHelper outside the United States, you understand that information may be processed in the United States or other locations where our service providers operate.
 
 ## Changes
 
@@ -116,4 +116,4 @@ We may update this Privacy Policy from time to time. If changes are material, we
 
 For privacy or support questions, contact:
 
-support@JobHelper.app
+support@JobsHelper.app
